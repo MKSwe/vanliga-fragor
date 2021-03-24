@@ -23,4 +23,5 @@ http://blog.komar.be/how-to-make-a-keyboard-the-matrix/
 
 ## Firmwares:
 QMK: https://docs.qmk.fm/#/
+
 ZMK: https://zmkfirmware.dev/
