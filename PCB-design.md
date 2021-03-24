@@ -13,8 +13,8 @@ https://wiki.ai03.com/books/pcb-design/chapter/advanced-info
 http://blog.komar.be/how-to-make-a-keyboard-the-matrix/
 
 # Bra wiki för nRF stuff:
--jorics wiki: https://github.com/joric/nrfmicro/wiki
--ebastlers guide: https://github.com/ebastler/zmk-designguide
+- jorics wiki: https://github.com/joric/nrfmicro/wiki
+- ebastlers guide: https://github.com/ebastler/zmk-designguide
 
 # Firmwares:
 QMK: https://docs.qmk.fm/#/
