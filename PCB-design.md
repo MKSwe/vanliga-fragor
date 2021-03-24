@@ -1,4 +1,4 @@
-#
+# Kom igång-resurser för PCB-design
 
 ## Lämplig mjukvara
 KiCad: https://kicad.org/
