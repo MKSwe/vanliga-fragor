@@ -1,4 +1,4 @@
-
+[
     {
         "name":"1upkeyboards",
         "url":"https:\/\/1upkeyboards.com\/",
@@ -12,8 +12,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"candykeys",
         "url":"https:\/\/candykeys.com\/",
@@ -27,8 +26,7 @@
         "parts":"no",
         "note":"gb runners",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"cannonkeys",
         "url":"https:\/\/cannonkeys.com\/",
@@ -42,8 +40,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"https:\/\/discord.gg\/jm3sn7n6sn"
-    }
-
+    },
     {
         "name":"caps-unlocked",
         "url":"https:\/\/caps-unlocked.com",
@@ -57,8 +54,7 @@
         "parts":"no",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"cbkbd",
         "url":"https:\/\/www.cbkbd.com\/",
@@ -72,8 +68,7 @@
         "parts":"yes",
         "note":"focus on kits and smaller kb.",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"clarkkable",
         "url":"https:\/\/clarkkable.com\/",
@@ -87,8 +82,7 @@
         "parts":"no",
         "note":"cables",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"clueboard",
         "url":"https:\/\/clueboard.co\/",
@@ -102,8 +96,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"https:\/\/discord.gg\/wjmnqrx"
-    }
-
+    },
     {
         "name":"drop",
         "url":"https:\/\/drop.com\/",
@@ -117,8 +110,7 @@
         "parts":"no",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"flashquark",
         "url":"https:\/\/flashquark.com\/",
@@ -132,8 +124,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"https:\/\/discord.gg\/duqmxrs"
-    }
-
+    },
     {
         "name":"gboards",
         "url":"https:\/\/www.gboards.ca\/",
@@ -147,8 +138,7 @@
         "parts":"no",
         "note":"focus on kits and smaller kb.",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"glorious",
         "url":"https:\/\/www.pcgamingrace.com\/",
@@ -162,8 +152,7 @@
         "parts":"no",
         "note":"nan",
         "discord":"https:\/\/www.pcgamingrace.com\/discord"
-    }
-
+    },
     {
         "name":"infinitykey",
         "url":"https:\/\/infinitykey.zone\/",
@@ -177,8 +166,7 @@
         "parts":"no",
         "note":"nan",
         "discord":"https:\/\/discord.gg\/kdwwfg6faz"
-    }
-
+    },
     {
         "name":"kbdfans",
         "url":"https:\/\/kbdfans.com\/",
@@ -192,8 +180,7 @@
         "parts":"yes",
         "note":"biggest store, crestor or several kb and kits, gb runners",
         "discord":"https:\/\/discord.gg\/hmzkdhn"
-    }
-
+    },
     {
         "name":"kebo",
         "url":"https:\/\/kebo.store\/",
@@ -207,8 +194,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"https:\/\/discord.gg\/3c67v3f"
-    }
-
+    },
     {
         "name":"keebio",
         "url":"https:\/\/keeb.io",
@@ -222,8 +208,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"keebwerk",
         "url":"https:\/\/www.keebwerk.com\/",
@@ -237,8 +222,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"keyboardco",
         "url":"https:\/\/www.keyboardco.com\/",
@@ -252,8 +236,7 @@
         "parts":"no",
         "note":"prebuilds",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"keycapsss",
         "url":"https:\/\/keycapsss.com\/",
@@ -267,8 +250,7 @@
         "parts":"yes",
         "note":"focus on parts and kits ",
         "discord":"https:\/\/discord.gg\/frjfxzb"
-    }
-
+    },
     {
         "name":"keygem",
         "url":"https:\/\/keygem.store\/",
@@ -282,8 +264,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"https:\/\/discord.com\/invite\/227swe4"
-    }
-
+    },
     {
         "name":"keyhive",
         "url":"https:\/\/keyhive.xyz\/",
@@ -297,8 +278,7 @@
         "parts":"yes",
         "note":"focus on kits and smaller kb.",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"kono",
         "url":"https:\/\/kono.store\/",
@@ -312,8 +292,7 @@
         "parts":"no",
         "note":"nan",
         "discord":"https:\/\/discord.gg\/h8jq6st"
-    }
-
+    },
     {
         "name":"korabrand",
         "url":"https:\/\/www.korabrand.xyz\/",
@@ -327,8 +306,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"kprepublic",
         "url":"https:\/\/kprepublic.com\/",
@@ -342,8 +320,7 @@
         "parts":"yes",
         "note":"has an aliexpress storefront as well",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"littlekeyboards",
         "url":"https:\/\/www.littlekeyboards.com\/",
@@ -357,8 +334,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"loob",
         "url":"https:\/\/loob.no\/",
@@ -372,8 +348,7 @@
         "parts":"no",
         "note":"focus on ",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"maxgaming",
         "url":"https:\/\/www.maxgaming.se\/\/",
@@ -387,8 +362,7 @@
         "parts":"no",
         "note":"focus on gaming kbs",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"mechanicalkeyboards",
         "url":"https:\/\/mechanicalkeyboards.com\/",
@@ -402,8 +376,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"mechboards",
         "url":"https:\/\/mechboards.co.uk\/",
@@ -417,8 +390,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"https:\/\/discord.gg\/sby7akd"
-    }
-
+    },
     {
         "name":"mechbox",
         "url":"https:\/\/mechbox.co.uk\/",
@@ -432,8 +404,7 @@
         "parts":"no",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"mechsupply",
         "url":"http:\/\/www.mechsupply.co.uk\/",
@@ -447,8 +418,7 @@
         "parts":"no",
         "note":"nan",
         "discord":"http:\/\/www.mechsupply.co.uk\/discord"
-    }
-
+    },
     {
         "name":"mekanisk",
         "url":"https:\/\/mekanisk.com\/",
@@ -462,8 +432,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"https:\/\/discord.com\/invite\/wta8der"
-    }
-
+    },
     {
         "name":"melgeek",
         "url":"https:\/\/www.melgeek.com\/",
@@ -477,8 +446,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"https:\/\/discord.gg\/fjsycmk"
-    }
-
+    },
     {
         "name":"mkultra",
         "url":"https:\/\/mkultra.click\/",
@@ -492,8 +460,7 @@
         "parts":"yes",
         "note":"also selling foam",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"mykeyboard",
         "url":"https:\/\/mykeyboard.eu\/",
@@ -507,8 +474,7 @@
         "parts":"no",
         "note":"gb runners, very active discord",
         "discord":"https:\/\/discord.mykeyboard.eu\/"
-    }
-
+    },
     {
         "name":"norbauer",
         "url":"https:\/\/shop.norbauer.com\/",
@@ -522,8 +488,7 @@
         "parts":"no",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"novelkeys",
         "url":"https:\/\/novelkeys.xyz\/",
@@ -537,8 +502,7 @@
         "parts":"no",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"oblotzky",
         "url":"https:\/\/oblotzky.industries\/",
@@ -552,8 +516,7 @@
         "parts":"no",
         "note":"gbs and extras ",
         "discord":"http:\/\/discord.oblotzky.industries\/"
-    }
-
+    },
     {
         "name":"ohkeycaps",
         "url":"https:\/\/ohkeycaps.com\/",
@@ -567,8 +530,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"olkb",
         "url":"https:\/\/olkb.com\/",
@@ -582,8 +544,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"omnitype",
         "url":"https:\/\/omnitype.com\/",
@@ -597,8 +558,7 @@
         "parts":"no",
         "note":"old dixie",
         "discord":"https:\/\/discord.gg\/omnitype"
-    }
-
+    },
     {
         "name":"opticboards",
         "url":"https:\/\/www.opticboards.com\/",
@@ -612,8 +572,7 @@
         "parts":"yes",
         "note":"nan",
         "discord":"https:\/\/www.opticboards.com\/discord\/"
-    }
-
+    },
     {
         "name":"originativeco",
         "url":"https:\/\/www.originativeco.com\/",
@@ -627,8 +586,7 @@
         "parts":"no",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"p3dstore",
         "url":"https:\/\/p3dstore.com\/",
@@ -642,8 +600,7 @@
         "parts":"yes",
         "note":"3d printed cases",
         "discord":"https:\/\/discord.gg\/azxutqr"
-    }
-
+    },
     {
         "name":"pexonpcs",
         "url":"https:\/\/pexonpcs.co.uk\/",
@@ -657,8 +614,7 @@
         "parts":"no",
         "note":"cables",
         "discord":"https:\/\/discord.gg\/zrn8bdp"
-    }
-
+    },
     {
         "name":"pimpmykeyboard",
         "url":"https:\/\/pimpmykeyboard.com\/",
@@ -672,8 +628,7 @@
         "parts":"no",
         "note":"signature plastic storefront ",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"qiwicables",
         "url":"https:\/\/www.qiwicables.com\/",
@@ -687,8 +642,7 @@
         "parts":"no",
         "note":"cables",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"splitkb",
         "url":"https:\/\/splitkb.com\/",
@@ -702,8 +656,7 @@
         "parts":"yes",
         "note":"focus on split kb, creator of kyria , great qmk guides",
         "discord":"https:\/\/splitkb.com\/discord"
-    }
-
+    },
     {
         "name":"thekeycompany",
         "url":"https:\/\/thekey.company\/",
@@ -717,8 +670,7 @@
         "parts":"no",
         "note":"nan",
         "discord":"https:\/\/discord.com\/invite\/kwfee5d"
-    }
-
+    },
     {
         "name":"ukkeycaps",
         "url":"http:\/\/www.ukkeycaps.co.uk\/",
@@ -732,8 +684,7 @@
         "parts":"no",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"uniqey",
         "url":"https:\/\/uniqey.net\/en\/\/",
@@ -747,8 +698,7 @@
         "parts":"no",
         "note":"gmk storefront ",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"wasdkeyboards",
         "url":"https:\/\/www.wasdkeyboards.com\/",
@@ -762,8 +712,7 @@
         "parts":"no",
         "note":"focus on prebuilt",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"zealpc",
         "url":"https:\/\/zealpc.net\/",
@@ -777,8 +726,7 @@
         "parts":"no",
         "note":"nan",
         "discord":"nan"
-    }
-
+    },
     {
         "name":"zfrontier",
         "url":"https:\/\/en.zfrontier.com\/",
@@ -793,4 +741,4 @@
         "note":"asian vendor for many gmk gbs",
         "discord":"nan"
     }
-
+]
