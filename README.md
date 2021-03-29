@@ -4,19 +4,6 @@ Mer **grundläggande tangentbordsinformation** finns på: <https://keyboard.univ
 
 Som inledning vill jag bara säga att det mesta inom denna hobby är personlig preferens. Många av dessa frågor kan besvaras med: "prova det du är intresserad av och dra dina egna slutsatser". Med det sagt så finns det några mer specifika frågor som vi får ofta.
 
-* [Var köper man saker?](#var-k-per-man-saker-)
-* [Vad är ett group buy/GB?](#vad--r-ett-group-buy-gb-)
-* [Hur fungerar åäö på ANSI?](#hur-fungerar-----p--ansi-)
-* [Vilken xxx är bäst?](#vilken-xxx--r-b-st-)
-* [Hur rengör jag mina xxx?](#hur-reng-r-jag-mina-xxx-)
-* [Hur programmerar jag mitt tangentbord?](#hur-programmerar-jag-mitt-tangentbord-)
-* [Jag vågar/kan/vill inte löda, var får jag tag på hotswap?](#jag-v-gar-kan-vill-inte-l-da--var-f-r-jag-tag-p--hotswap-)
-* ["WTB (asdyr bräda), helst under 1k"](#-wtb--asdyr-br-da---helst-under-1k-)
-* [Hur får jag tag på ISO Nordic?](#hur-f-r-jag-tag-p--iso-nordic-)
-* [Vilket material ska jag ha på xxx?](#vilket-material-ska-jag-ha-p--xxx-)
-* [Vilket smörj ska jag använda?](#vilket-sm-rj-ska-jag-anv-nda-)
-* [Hur designar jag min egen PCB?](#hur-designar-jag-min-egen-pcb-)
-
 ## Var köper man saker?
 
 Det finns ett gäng butiker inom EU som specialiserar sig inom olika typer av försäljning.
